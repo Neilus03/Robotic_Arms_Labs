@@ -7,6 +7,7 @@ This repository contains lab exercises on robotic arms conducted as part of the 
 - `exercise7`
 - `guideactivitys5`
 - `guidedactivities_s4`
+- `Laboratory6`
 
 ## Language
 - Jupyter Notebook (94.0%)
